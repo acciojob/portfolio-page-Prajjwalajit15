@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+#skills{
+	 
+	border-width: 10px;
+	border-radius: 8px; 
+	background-size: contains;
+	background-color:#f59b9c
+;
+}
+#projects{ 
+	border-width: 10px;
+	border-radius: 8px; 
+	background-size: contains;
+	background-color: #f59b9c
+;
+}
